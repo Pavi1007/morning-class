@@ -1,3 +1,0 @@
-print("pavi")
-
-print("avishek")
